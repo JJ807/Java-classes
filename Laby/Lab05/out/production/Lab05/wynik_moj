@@ -1,0 +1,27 @@
+Student: Jan Kowalski, id number: 211152, grades: [3.5, 4.0, 5.0]
+  Average = 4.166666666666667
+
+Student: Marek Styczen, id number: 211150, grades: [4.5, 3.5, 5.0]
+  Average = 4.333333333333333
+
+Graduate: inz. Franciszek Nowak, id number: 223123, grades: [5.0, 4.5, 4.0], year of graduation: 2018
+  Average = 4.5
+
+Graduate: mgr inz. Lukasz Maj, id number: 200122, grades: [5.0, 4.5, 3.0], year of graduation: 2012
+  Average = 4.166666666666667
+
+Dean: prof. Wojciech Luzny, Dean of the Faculty from 2008 to 2012.
+  [Average not applicable]  Average = 0.0
+
+Dean: prof. Janusz Wolny, Dean of the Faculty from 2012 to 2020.
+  [Average not applicable]  Average = 0.0
+
+
+Marek Styczen, id number: 211150, grades: [4.5, 3.5, 5.0]
+Marek Styczen, id number: 211150, grades: [4.5, 3.5, 5.0]
+inz. Franciszek Nowak, id number: 223123, grades: [5.0, 4.5, 4.0], year of graduation: 2018
+null
+
+prof. Janusz Wolny, Dean of the Faculty from 2012 to 2020.
+prof. Janusz Wolny, Dean of the Faculty from 2012 to 2020.
+null

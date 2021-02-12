@@ -1,0 +1,41 @@
+Pobierz i rozpakuj archiwum Lab6.tar. Edytować można tylko klasy: StudentWFiIS1, StudentWFiIS2 oraz StudentWFiIS3 poprzez dopisanie odpowiednich metod (pola tych klas są już gotowe). Efektem kompilacji i wywołania Lab6 powinno być dokładnie to,
+co podano w pliku.
+
+Proszę pamiętać o korzystaniu z gotowych metod oraz dziedziczenia zamiast powtarzać kod!
+
+(3 pkt.) Uzupełnij klasę StudentWFiIS1, która dostosuje istniejącą klasę Student do wymagań interfejsu StudentUSOS poprzez dziedziczenie po Student oraz implementację interfejsu.
+(3 pkt.) Uzupełnij klasę StudentWFiIS2, która dostosuje istniejącą klasę Student do wymagań interfejsu StudentUSOS poprzez implementację interfejsu oraz pole składowe stud, będące obiektem klasy Student.
+(4 pkt.) Uzupełnij klasę StudentWFiIS3, która dostosuje istniejącą klasę Student do wymagań interfejsu StudentUSOS poprzez dziedziczenie po Student i pole składowe stud typu StudentUSOS. Wskazówka: trzeba skorzystać z anonimowej klasy wewnętrznej.
+
+[5] Marek Styczen, id number: 211150, grades: [4.5, 3.0, 5.0]
+	Srednia: 4.166666666666667
+	1. Java: 4.5
+	2. Fizyka: 3.0
+	3. Elektronika: 5.0
+[2] Darek Luty, id number: 305459, grades: [5.0, 4.5, 4.0]
+	Srednia: 4.5
+	1. Java: 5.0
+	2. Matematyka: 4.5
+	3. Elektronika: 4.0
+--------------------------------------------------------------------
+[5] Marek Styczen, id number: 211150, grades: [4.5, 3.0, 5.0]
+	Srednia: 4.166666666666667
+	1. Java: 4.5
+	2. Fizyka: 3.0
+	3. Elektronika: 5.0
+[2] Darek Luty, id number: 305459, grades: [5.0, 4.5, 4.0]
+	Srednia: 4.5
+	1. Java: 5.0
+	2. Matematyka: 4.5
+	3. Elektronika: 4.0
+--------------------------------------------------------------------
+[5] Marek Styczen, id number: 211150, grades: [4.5, 3.0, 5.0]
+	Srednia: 4.166666666666667
+	1. Java: 4.5
+	2. Fizyka: 3.0
+	3. Elektronika: 5.0
+[2] Darek Luty, id number: 305459, grades: [5.0, 4.5, 4.0]
+	Srednia: 4.5
+	1. Java: 5.0
+	2. Matematyka: 4.5
+	3. Elektronika: 4.0
